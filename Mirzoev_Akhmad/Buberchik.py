@@ -1,2 +1,1 @@
-print('Buberchik')
-4356
+print('Buberchik')12
