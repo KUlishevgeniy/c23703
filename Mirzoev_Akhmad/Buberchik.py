@@ -1,1 +1,1 @@
-print('Буберчик')
+print('aboba')
