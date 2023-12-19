@@ -1,1 +1,1 @@
-print('Buberchik')jh
+print('Buberchik')
