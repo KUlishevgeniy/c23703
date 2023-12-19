@@ -1,1 +1,1 @@
-print('Kulich_Genyy')
+print('1234')
