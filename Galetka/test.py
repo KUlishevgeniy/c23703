@@ -1,0 +1,1 @@
+print('Kulich_Genyy')
